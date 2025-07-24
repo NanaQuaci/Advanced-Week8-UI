@@ -27,6 +27,8 @@ public class BaseTest {
         ChromeOptions options = new ChromeOptions();
         options.setExperimentalOption("prefs", prefs);
         options.addArguments("--disable-save-password-bubble");
+        options.addArguments("--user-data-dir=/tmp/chrome-profile-${UUID.randomUUID()}");
+
 
         driver = new ChromeDriver(options);
         driver.manage().window().maximize();
