@@ -84,7 +84,5 @@ public class CartTest extends BaseTest {
         assertTrue(cartPage.isCartBadgeGone(), "Cart badge should no longer be visible after removing the item");
     }
 
-    // Small change
-
 
 }
