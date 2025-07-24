@@ -4,6 +4,8 @@
 🧪 UI Automation Testing – Swag Labs Web App
 This project demonstrates UI automation testing using Selenium WebDriver with the Page Object Model (POM) design pattern. It includes automation for core user flows such as Login and Cart functionality, and integrates with Allure Reports for detailed result visualization.
 
+![UI Tests](https://github.com/NanaQuaci/Advanced-Week8-UI/actions/workflows/run-tests.yml/badge.svg)
+
 🚀 Technologies Used
 - **Java 21**
 - **Selenium WebDriver – UI automation framework**
