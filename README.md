@@ -64,7 +64,8 @@ If you don’t have Allure installed: [Install Allure CLI](https://allurereport.
 Allure Report Online
 (Deployed to GitHub Pages)
 
-📍 View Allure Report
+### 🌐 View Deployed Report (CI)
+➡️ [Allure Report (GitHub Pages)](https://nanaquaci.github.io/Advanced-Week8-UI/)
 
 🔗 Useful Links
 - Swag Labs Demo Site
